@@ -25,5 +25,4 @@ Comparisons: Compare variables and print results.
 
 Compound Assignment Operators: Use compound assignment operators for efficient coding.
 
-# Contribution
-Contributions are welcome! If you have more questions, want to improve existing solutions, or suggest additional topics, follow these steps:
+
